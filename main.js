@@ -3,9 +3,9 @@ console.clear();
 http.__okhttp__.setTimeout(10000);
 
 let url = [
-    'https://gh-proxy.com/https://raw.githubusercontent.com/wuyazhong2022/Qg-zs-cs/main/UI.js',
-    "https://ghproxy.com/https://raw.githubusercontent.com/wuyazhong2022/Qg-zs-cs/main/UI.js",
-    'https://raw.githubusercontent.com/wuyazhong2022/Qg-zs-cs/main/UI.js',
+    'https://gh-proxy.com/https://raw.githubusercontent.com/wuyazhong2022/Gx-gb-wlpxzs/main/UI.js',
+    "https://ghproxy.com/https://raw.githubusercontent.com/wuyazhong2022/Gx-gb-wlpxzs/main/UI.js",
+    'https://raw.githubusercontent.com/wuyazhong2022/Gx-gb-wlpxzs/main/UI.js',
 ];
 
 for (var i = 0; i < url.length; i++) {
